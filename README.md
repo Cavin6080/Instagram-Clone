@@ -26,9 +26,10 @@ This app is completly responsive and it works on android,io and web!
 
 
 
-## Tech Used
+## Backend Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
+## Front-end Used
 **Client**: Flutter, Provider
     
 ## Feedback
